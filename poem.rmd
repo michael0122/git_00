@@ -1,8 +1,10 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
-output: html_document
+author: "Michael Abdalla"
+date: "may 19 2021"
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
